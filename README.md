@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raj9229
-- my name is Raj. i am from India taking b.tech in computer science from ymca.
+- my name is Raj. i am from India pursuing b.tech in computer science from ymca.
 - 👀 I’m interested in computer science and learning new skills.
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on new projects
