@@ -5,30 +5,13 @@
 ---
 
 ### 📫 Let’s Connect!
-- **Portfolio**: [(Live)](https://raj9229.github.io/Portfolio/)
-- <!-- Centered GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="400" alt="Raj Coding Animation" />
-</p>
-
-<!-- LinkedIn Badge -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/raj-gupta-4bbab7289/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Raj's LinkedIn" />
-  </a>
-</p>
-
-<!-- Centered GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="400" alt="Raj Coding Animation" />
-</p>
-
-<!-- GitHub Badge -->
-<p align="center">
-  <a href="https://github.com/Raj9229">
-    <img src="https://img.shields.io/badge/GitHub-Raj9229-181717?logo=github&logoColor=white" alt="Raj's GitHub" />
-  </a>
-</p>
+- [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white)](https://raj9229.github.io/Portfolio/)
+<a href="https://github.com/Raj9229">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+</a>
+<a href="https://www.linkedin.com/in/raj-gupta-4bbab7289/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+</a>
 
 
 
