@@ -22,8 +22,10 @@
 
 ---
 <div>
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=Raj9229&color=blue)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj9229&layout=compact&theme=tokyonight)
+
 </div>
 <br>
 ### ⚡ Fun Fact
