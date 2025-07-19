@@ -21,11 +21,10 @@
 
 
 ---
-
-
-
+<div>
 ![Profile Views](https://komarev.com/ghpvc/?username=Raj9229&color=blue)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj9229&layout=compact&theme=tokyonight)
+</div>
 <br>
 ### ⚡ Fun Fact
 > I turn caffeine and curiosity into code — and I love solving real-world problems through tech.
@@ -33,14 +32,9 @@
 <div>
    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" alt="Coding Animation" />
 
-  <p align="center">
+  
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Animated Coding GIF" />
-</p>
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Animated Coding GIF" />
-</p>
 
 
 
