@@ -4,14 +4,19 @@
 
 ---
 
-### 📫 Let’s Connect!
-- [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white)](https://raj9229.github.io/Portfolio/)
-<a href="https://github.com/Raj9229">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
-</a>
-<a href="https://www.linkedin.com/in/raj-gupta-4bbab7289/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-</a>
+<p align="center">
+  <a href="https://raj9229.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Raj9229">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/raj-gupta-4bbab7289/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
+  </a>
+</p>
 
 
 
