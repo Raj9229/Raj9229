@@ -32,4 +32,10 @@ J.C. Bose University of Science and Technology, YMCA, India
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Animated Coding GIF" />
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212259390-64d66c80-c1ee-4a6d-a398-c317377b2bac.jpg" width="300" alt="Profile Image" />
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" alt="Coding Animation" />
+
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400" alt="Raj Coding Animation 2" />
+
 
