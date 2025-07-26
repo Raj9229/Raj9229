@@ -10,7 +10,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Raj9229">
-  <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub" />
 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/raj-gupta-4bbab7289/">
