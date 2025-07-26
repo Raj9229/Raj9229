@@ -65,7 +65,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Animated Coding GIF" />
 </div>
 
-![Hackathon Winner](https://img.shields.io/badge/Hackathon%20Winner-2024-blue?style=flat-square&logo=github)
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat-square&logo=github)
 
 
