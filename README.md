@@ -54,7 +54,8 @@
 
 <div style="display: flex; gap:10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj9229&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj9229&theme=dark&hide_border=false" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raj9229&theme=dark&hide_border=false)
+
 </div>
 
 
